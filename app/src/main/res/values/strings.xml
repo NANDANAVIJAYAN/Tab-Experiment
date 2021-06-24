@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tab Experiment</string>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment2">Hello blank fragment2</string>
+    <string name="hello_blank_fragment3">Hello blank fragment3</string>
+    <string name="tab_label1">Top Stories</string>
+    <string name="tab_label2">Tech News</string>
+    <string name="tab_label3">Cooking</string>
+
+
+
+</resources>
